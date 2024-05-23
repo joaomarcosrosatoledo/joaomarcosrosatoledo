@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**joaomarcosrosatoledo/joaomarcosrosatoledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Boas vindas ao meu perfil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-meu nome é João marcos 
+
+-estou estudando na alura 
+
+-estou ndesenvolvendo a linguagem JanvaScript
+
+-utilizo esse espaçao para minha organização e compartilhamento dos meus projetos
+
+**voce pode entra em contato comigo por gmail**
+
+00001113792310sp@aluno.educacao.sp.gov.br
